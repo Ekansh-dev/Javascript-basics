@@ -1,4 +1,4 @@
 let name ="ekansh"
 let age =22
 let isloggedIn = false 
-console.log(typeof "ekanhs","22")     
+console.log(typeof "ekanhs")     
